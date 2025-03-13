@@ -1,16 +1,16 @@
 
 
 
-import React from 'react'
-import { Button } from './components/ui/button'
+
 import Header from './components/Header'
 import { Route, Routes } from 'react-router-dom'
 import Home from './pages/Home'
-import Compile from './pages/Compiler'
+
 import Compiler from './pages/Compiler'
 import NotFound from './pages/NotFound'
 import { ThemeProvider } from "@/components/theme-provider"
 import { Toaster } from 'sonner'
+
 
 
 
